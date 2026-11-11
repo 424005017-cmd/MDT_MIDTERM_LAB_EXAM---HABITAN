@@ -1,9 +1,9 @@
 # Community Learning Center Management System
 **Mobile Development Midterm Laboratory Examination**
 
-* **Student Name:** [Your Full Name]
-* **Section:** [Your Section]
-* **Repository Name:** MD_Midterm_[Surname]_[Section]
+* **Student Name:** HABITAN_MARK_EUGENIO_T.
+* **Section:** BSIT 3.8
+* **Repository Name:** MD_Midterm_HABITAN
 
 ---
 
